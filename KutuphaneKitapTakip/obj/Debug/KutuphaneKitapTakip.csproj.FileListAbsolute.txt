@@ -1,0 +1,15 @@
+c:\users\nuh_9\documents\visual studio 2013\Projects\KutuphaneKitapTakip\KutuphaneKitapTakip\bin\Debug\KutuphaneKitapTakip.exe.config
+c:\users\nuh_9\documents\visual studio 2013\Projects\KutuphaneKitapTakip\KutuphaneKitapTakip\bin\Debug\KutuphaneKitapTakip.exe
+c:\users\nuh_9\documents\visual studio 2013\Projects\KutuphaneKitapTakip\KutuphaneKitapTakip\bin\Debug\KutuphaneKitapTakip.pdb
+c:\users\nuh_9\documents\visual studio 2013\Projects\KutuphaneKitapTakip\KutuphaneKitapTakip\obj\Debug\KutuphaneKitapTakip.Properties.Resources.resources
+c:\users\nuh_9\documents\visual studio 2013\Projects\KutuphaneKitapTakip\KutuphaneKitapTakip\obj\Debug\KutuphaneKitapTakip.csproj.GenerateResource.Cache
+c:\users\nuh_9\documents\visual studio 2013\Projects\KutuphaneKitapTakip\KutuphaneKitapTakip\obj\Debug\KutuphaneKitapTakip.exe
+c:\users\nuh_9\documents\visual studio 2013\Projects\KutuphaneKitapTakip\KutuphaneKitapTakip\obj\Debug\KutuphaneKitapTakip.pdb
+C:\Users\nuh_9\documents\visual studio 2013\Projects\KutuphaneKitapTakip\KutuphaneKitapTakip\obj\Debug\KutuphaneKitapTakip.FormAna.resources
+C:\Users\nuh_9\documents\visual studio 2013\Projects\KutuphaneKitapTakip\KutuphaneKitapTakip\obj\Debug\KutuphaneKitapTakip.FormEmanet.resources
+C:\Users\nuh_9\documents\visual studio 2013\Projects\KutuphaneKitapTakip\KutuphaneKitapTakip\obj\Debug\KutuphaneKitapTakip.FormGecikme.resources
+C:\Users\nuh_9\documents\visual studio 2013\Projects\KutuphaneKitapTakip\KutuphaneKitapTakip\obj\Debug\KutuphaneKitapTakip.FormKitap.resources
+C:\Users\nuh_9\documents\visual studio 2013\Projects\KutuphaneKitapTakip\KutuphaneKitapTakip\obj\Debug\KutuphaneKitapTakip.FormUye.resources
+C:\Users\nuh_9\Documents\Visual Studio 2013\Projects\KutuphaneKitapTakip\KutuphaneKitapTakip\obj\Debug\KutuphaneKitapTakip.csproj.AssemblyReference.cache
+C:\Users\nuh_9\Documents\Visual Studio 2013\Projects\KutuphaneKitapTakip\KutuphaneKitapTakip\obj\Debug\KutuphaneKitapTakip.csproj.CoreCompileInputs.cache
+C:\Users\nuh_9\Documents\Visual Studio 2013\Projects\KutuphaneKitapTakip\KutuphaneKitapTakip\obj\Debug\KutuphaneKitapTakip.csproj.SuggestedBindingRedirects.cache
